@@ -1,0 +1,10 @@
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\bin\Debug\EntityFrameWorkExamples.exe.config
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\bin\Debug\EntityFrameWorkExamples.exe
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\bin\Debug\EntityFrameWorkExamples.pdb
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\bin\Debug\EntityFramework.dll
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\bin\Debug\EntityFramework.xml
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\obj\Debug\EntityFrameWorkExamples.csprojResolveAssemblyReference.cache
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\obj\Debug\EntityFrameWorkExamples.exe
+c:\users\argunpc\documents\visual studio 2015\Projects\EntityFrameWorkExamples\EntityFrameWorkExamples\obj\Debug\EntityFrameWorkExamples.pdb
